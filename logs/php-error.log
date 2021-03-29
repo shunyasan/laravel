@@ -1,0 +1,11 @@
+[20-Mar-2021 09:58:19 Asia/Tokyo] PHP Warning:  proc_open(): fork failed - Out of memory in phar:///usr/bin/composer/vendor/symfony/console/Application.php on line 952
+[20-Mar-2021 09:59:58 Asia/Tokyo] PHP Warning:  proc_open(): fork failed - Out of memory in phar:///usr/bin/composer/vendor/symfony/console/Application.php on line 952
+[20-Mar-2021 10:00:53 Asia/Tokyo] PHP Warning:  proc_open(): fork failed - Out of memory in phar:///usr/bin/composer/vendor/symfony/console/Application.php on line 952
+[20-Mar-2021 10:09:20 Asia/Tokyo] PHP Warning:  proc_open(): fork failed - Out of memory in phar:///usr/bin/composer/vendor/symfony/console/Application.php on line 952
+[20-Mar-2021 10:13:03 Asia/Tokyo] PHP Warning:  proc_open(): fork failed - Out of memory in phar:///usr/bin/composer/vendor/symfony/console/Application.php on line 952
+[20-Mar-2021 10:16:36 Asia/Tokyo] PHP Warning:  proc_open(): fork failed - Out of memory in phar:///usr/bin/composer/vendor/symfony/console/Application.php on line 952
+[20-Mar-2021 10:18:09 Asia/Tokyo] PHP Warning:  proc_open(): fork failed - Out of memory in phar:///usr/bin/composer/vendor/symfony/console/Application.php on line 952
+[20-Mar-2021 11:05:13 Asia/Tokyo] PHP Warning:  proc_open(): fork failed - Out of memory in phar:///usr/bin/composer/vendor/symfony/console/Application.php on line 952
+[20-Mar-2021 11:11:25 Asia/Tokyo] PHP Warning:  proc_open(): fork failed - Out of memory in phar:///usr/bin/composer/vendor/symfony/console/Application.php on line 952
+[22-Mar-2021 15:17:24 UTC] PHP Fatal error:  Constant expression contains invalid operations in /work/app/Http/Controllers/Auth/RegisterController.php on line 32
+[23-Mar-2021 03:24:04 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /work/app/Http/Controllers/BlogController.php on line 140
